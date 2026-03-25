@@ -13,6 +13,7 @@ const G = {
   white: "#F8FAFC",
 };
 
+
 const CATEGORIES = [
   { id: 1, name: "DMS System", icon: "🖥️", color: G.blue, desc: "Dealer Management System issues & guides", count: 12 },
   { id: 2, name: "Order Issues", icon: "📦", color: G.teal, desc: "Order processing, cancellations, status", count: 8 },
